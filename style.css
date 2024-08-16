@@ -1,0 +1,28 @@
+
+
+    
+
+.a{
+    background -color:aqua;
+    color:blue;
+    text-align:center;
+    border:5px Black outset;
+    padding:5px;
+}
+.image{
+    text-align:center;
+    background-color:black;
+}
+.body{
+    text-align: center;
+    background-color:aqua;
+    color:blue;
+    padding :auto;
+    border:50 px solid black;
+}
+.footer{
+    text-align:center;
+    padding:1rem 0;
+    background-color:black;
+    color:red;
+}
